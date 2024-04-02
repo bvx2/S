@@ -1,2 +1,2 @@
-# S
-Termux hack 
+#S
+Termox
